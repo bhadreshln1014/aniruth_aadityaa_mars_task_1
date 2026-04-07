@@ -1,2 +1,6 @@
-# aniruth_aadityaa_mars_task_1
-This repository contains the submission of Aniruth Aadityaa Balaji's (ID25B1008) MARS Task 1 Submission
+---
+# <center> ID25B1008 - Aniruth Aadityaa Balaji - MARS - Task 1 - Submission </center>
+---
+This repository contains Aniruth Aadityaa Balaji's MARS Task 1 Submission files
+
+---
